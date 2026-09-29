@@ -21,15 +21,21 @@
   <url><loc>https://veryvisa.github.io/mexico-site/cards/diy-timeline/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/family-docs/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/family-who/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/home/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/home-path/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/home-three/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/identity-ladder/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/identity-residency/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/links-kinds/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/links-portals/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/map/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/numbers/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/oblig-duties/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/oblig-limits/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/pitfalls-community/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/pitfalls-official/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/policy-state/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/pr-reject/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/pr-threshold/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/start-clock/</loc></url>
@@ -44,6 +50,18 @@
   <url><loc>https://veryvisa.github.io/mexico-site/cards/uma-thresholds/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/updates-clock/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/updates-kinds/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/v-cambio-a-permanente/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/v-canje/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/v-nacionalidad-doble/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/v-naturalizacion/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/v-oferta-empleo/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/v-residente-permanente-familia/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/v-residente-permanente-jubilado/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/v-residente-temporal/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/v-residente-temporal-estudiante/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/v-unidad-familiar/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/v-visitante/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/cards/v-visitante-trabajo/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/verify-entry/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/verify-method/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/cards/visuals-map/</loc></url>
@@ -60,6 +78,24 @@
   <url><loc>https://veryvisa.github.io/mexico-site/obligations/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/pitfalls/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/start/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/glossary/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/identity/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/map/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/policy/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/cambio-a-permanente/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/canje/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/nacionalidad-doble/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/naturalizacion/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/oferta-empleo/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/residente-permanente-familia/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/residente-permanente-jubilado/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/residente-temporal/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/residente-temporal-estudiante/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/unidad-familiar/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/visitante/</loc></url>
+  <url><loc>https://veryvisa.github.io/mexico-site/status/visas/visitante-trabajo/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/uma/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/updates/</loc></url>
   <url><loc>https://veryvisa.github.io/mexico-site/verify/</loc></url>
